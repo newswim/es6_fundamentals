@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "chai": "3.5.0",
+    "expect": "1.16.0",
     "expect.js": "0.3.1"
   }
 }

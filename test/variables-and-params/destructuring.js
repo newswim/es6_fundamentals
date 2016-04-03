@@ -1,10 +1,7 @@
 // const expect = require('chai').expect
 var expect = require('expect.js');
 
-
-// DESTRUCTURING ARRAYS
-
-describe("destructuring", function () {
+describe("DESTRUCTURING", function () {
   "use strict"
 
   it("can destructure arrays", function () {
@@ -83,6 +80,8 @@ value, assign it to 'y' "
     expect(first).to.be("Scott")
 
   })
+
+  // DESTRUCTURED PARAMETERS
 
   it("works with parameters", function () {
 
